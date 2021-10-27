@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/geshan/nodejs-sqlite#readme",
   "dependencies": {
+    "better-sqlite3": "^7.4.3",
     "express": "^4.17.1"
   }
 }
