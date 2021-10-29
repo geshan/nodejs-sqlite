@@ -3,6 +3,8 @@ const app = express();
 const port = 3000 || process.env.PORT;
 const quotesRouter = require('./routes/quotes');
 
+app.use(express.json());
+
 app.get('/', (req, res) => {
   res.json({message: 'alive'});
 });
