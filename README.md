@@ -4,4 +4,6 @@ Node.js and SQLite example code for a blog post: https://geshan.com.np/blog/2021
 
 ## Architecture
 
-You can have a look at this [diagram](https://gitdiagram.com/geshan/nodejs-sqlite)
+![Architecture](./docs/architecture.jpg)
+
+You can also have a look at this [diagram](https://gitdiagram.com/geshan/nodejs-sqlite) on GitDiagram.
